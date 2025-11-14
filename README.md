@@ -4,49 +4,43 @@
 
 To study the problem statement, SRS document and draw all the UML diagrams of a Student Enrollment Management System.
 
+# Exp - 6 STUDENT ONLINE EXAM REGISTRATION SYSTEM
+
+# AIM:
+To study the problem statement, SRS document and draw all the UML diagrams of Exam Registration System
 # SRS (Procedure):
+1.The admin registers students and instructors in the system.
+2.The instructor creates the exam and adds questions.
+3.The admin reviews and approves the exam schedule.
+4.The student logs in and views available exams.
+5.The student attends the exam and submits answers.
+6.The system and instructor evaluate the exam.
+7.The admin publishes the result and students view their marks.
+# BY: JEEVANESH S
+# REG: 212222243002
+# DIAGRAMS:
 
-## Step 1: Problem Identification
+USECASE DIAGRAM:
+<img width="1210" height="942" alt="image" src="https://github.com/user-attachments/assets/747f6644-9774-4ae7-95e4-19fb160555e1" />
 
-Manual student admission and record handling are time-consuming and prone to errors. The system aims to automate student registration, course enrollment, and record management efficiently.
+CLASS DIAGRAM:
 
-## Step 2: Requirement Analysis
+<img width="1247" height="960" alt="image" src="https://github.com/user-attachments/assets/bc28d907-1c82-4e2d-9eb6-dec6330e0ab6" />
 
-Users: Admin, Staff, and Student.      
-Main Functions: Student registration, course enrollment, fee payment, record updating, and report generation.    
-Non-Functional Needs: Security, reliability, and an easy-to-use interface.
+PACKAGE DIAGRAM:
 
-## Step 3: System Design
+<img width="1342" height="956" alt="image" src="https://github.com/user-attachments/assets/fc5317bf-ef64-47da-8e9f-3ec658d7c3a0" />
 
-Draw UML diagrams: Use Case, Class, Activity, Sequence, Communication, and Package diagrams.    
-Design database tables for Students, Courses, Enrollment, and Fees.
-# NAME: JEEVANESH S
-# REG:  212222243002
-# UML DIAGRAMS:
-
-## USE CASE DIAGRAM:
-
-![image](https://github.com/user-attachments/assets/26deb67f-d38a-4c5c-88d9-39b63bd77236)
-## Activity Diagram
-
-![Screenshot 2025-05-14 085557](https://github.com/user-attachments/assets/2baf80b5-f33c-4fef-9b63-9da4eb909829)
+COMMUNICATION DIAGRAM:
+<img width="1207" height="941" alt="image" src="https://github.com/user-attachments/assets/340b437b-3f9b-403b-b94b-6f8a9d4d1fa3" />
 
 
-## CLASS DIAGRAM:
+SEQUENCE DIAGRAM:
 
-![image](https://github.com/user-attachments/assets/1949636d-aa4a-48de-ac9f-c746d0764857)
+<img width="1207" height="938" alt="image" src="https://github.com/user-attachments/assets/5314f6c9-a72b-4439-a34a-e0957a4d0580" />
 
-## COMMUNICATION DIAGRAM:
+ACTIVITY DIAGRAM:
+<img width="671" height="953" alt="image" src="https://github.com/user-attachments/assets/ceb75850-860a-4796-9e3e-9e237ffa2175" />
 
-<img width="1112" height="756" alt="image" src="https://github.com/user-attachments/assets/619c25b8-8de1-4179-a6ec-476f15cd995b" />
-
-## PACKAGE DIAGRAM:
-
-![image](https://github.com/user-attachments/assets/213dfafb-1520-411a-8e2a-ebb25231b8d2)
-
-## SEQUENCE DIAGRAM:
-
-![image](https://github.com/user-attachments/assets/7f3f0349-ca7f-4fd7-b534-2ac8a08966c5)
 # RESULT:
-
-Thus the Student enrollment management system project was executed and the output was verified.
+Thus the Student Registration System project was executed and the output was verified.
